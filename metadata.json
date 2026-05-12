@@ -1,0 +1,6 @@
+{
+  "name": "ScreenHR - AI CV Evaluator",
+  "description": "An HR screening application that allows recruiters to create job profiles and automatically evaluate multiple CVs against those requirements using AI, providing match scores, strengths, weaknesses, and summaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
